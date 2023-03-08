@@ -5881,3 +5881,4 @@
 *.settings filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 /webgl_sharing filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/2a/2a69006687708ed50b9dd23b8a5cb476 filter=lfs diff=lfs merge=lfs -text
